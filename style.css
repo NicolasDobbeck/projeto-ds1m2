@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#bdc3c7, #2c3e50);
+}
+
+h1{
+  color: black;
+  font-size: 40px;
+  font-style: italic;  
+}
